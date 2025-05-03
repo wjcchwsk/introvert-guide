@@ -1,8 +1,6 @@
 # 1. Introduction  
 _Quick Start Guide for Introverted Technical Writers_
 
-![Illustration contrasting extroverts and introverts](images/image1.png "Extroverts and Introverts: Different Energies, Equal Value")
-
 ---
 
 ## Purpose and Scope
