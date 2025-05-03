@@ -1,4 +1,4 @@
-# 📘 Introvert's Guide to Technical Writing
+# Introvert's Guide to Technical Writing
 
 _A quiet, thoughtful guide for technical writers who prefer clarity over chaos._
 
@@ -16,7 +16,7 @@ You'll find practical strategies for:
 
 ---
 
-## 🧭 Where to Start
+## Where to Start
 
 Choose your current focus:
 
