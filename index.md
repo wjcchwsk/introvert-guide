@@ -1,3 +1,9 @@
+---
+title: Introvert Guide
+Homelayout: default
+nav_order: 1
+---
+
 # Introvert's Guide to Technical Writing
 
 _A quiet, thoughtful guide for technical writers who prefer clarity over chaos._
