@@ -55,7 +55,7 @@
   Meetings drain focus. Block 15–30 minutes afterward to reset before jumping back into deep work.
 
 
-> **Reminder:**
+> **Note:**
 > See [Chapter 7](chapter-7-burnout.md) for long-term burnout prevention strategies.
 
 

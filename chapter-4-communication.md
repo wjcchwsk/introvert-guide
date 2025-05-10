@@ -42,7 +42,7 @@
 - **Thank** the person for their input (even if you disagree).  
 - Decide calmly **what to apply** and **what to leave aside**.
 
-> **Reminder:**  
+> **Note:**  
 > See [Chapter 6](chapter-6-career-growth.md) for networking and personal branding strategies.
 
 ---
