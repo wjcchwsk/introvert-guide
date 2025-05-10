@@ -1,28 +1,10 @@
 title: Introvert's Guide to Technical Writing
 description: A quiet, practical guide for technical writers who prefer calm over chaos.
-remote_theme: just-the-docs/just-the-docs
+theme: just-the-docs
 
 url: https://wjcchwsk.github.io/introvert-guide
 
-nav:
-  - title: Home
-    url: index
-  - title: Chapter 1: Introduction
-    url: chapter-1-introduction
-  - title: Chapter 2: Understanding Your Introversion
-    url: chapter-2-understanding-introversion
-  - title: Chapter 3: Creating an Introvert-Friendly Work Environment
-    url: chapter-3-work-environment
-  - title: Chapter 4: Communicating Effectively at Work
-    url: chapter-4-communication
-  - title: Chapter 5: Optimizing Your Workflow
-    url: chapter-5-workflow
-  - title: Chapter 6: Growing Your Career Quietly
-    url: chapter-6-career-growth
-  - title: Chapter 7: Preventing Burnout and Staying Sustainable
-    url: chapter-7-burnout
-  - title: Chapter 8: Useful Resources and Further Reading
-    url: chapter-8-resources
+
 
 aux_links:
   View on GitHub: https://github.com/wjcchwsk/introvert-guide
